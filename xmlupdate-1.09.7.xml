@@ -1,0 +1,177 @@
+
+
+-Changed-
+
+
+<content contentuid="h34f3a0e4g7722g4d5fg97f8gd9b67a582c32">Living Armour</content>
+<content contentuid="h493986c9g104eg4517g9c49g90cee026cd6c">Your armour echoes recovery, drawing strength from every spark of life you gain. Restores 25% of any vitality healing or recovery you receive into Magic Armour or Physical Armour.</content>
+
+<content contentuid="ha323378egb5f6g451cg858dged752a3540ca">When an opponent is afflicted with a control status, applying a control effect of the opposite armor type triggers a devastating effect. This can occur whether you initiate the control or break it. The effect deals heavy damage, applies a lingering hindrance and removes the original control. Hits from this talent cannot trigger reflected damage.&lt;br&gt;&lt;br&gt;Gain the ability to perform attacks of opportunity.</content>
+
+<content contentuid="h8ddc8dd4ge8feg4420ga6dag0d87ce8ec743">You dance through battle with fluid precision ignoring attacks of opportunity and swapping weapons without cost. After a melee hit, your next projectile Cripples, bypassing armour. After a projectile hit, your next melee attack Silences, also ignoring armour. Trigger both effects to gain Momentum, reducing AP cost of melee and projectile skills by 1 while increasing movement by 1m.&lt;br&gt;&lt;font color='#C7A758' size='17'>(Not compatible with Elemental Affinity)&lt;/font&gt;</content>
+
+<content contentuid="h278b2bccg1afcg4314gbfcbgb10105ebc12b">Restore 5% of your maximum Vitality each turn. When resurrected, return with 100% Vitality.
+Each time you cast or receive a healing spell, you emit a boon that restores Vitality and Armour to yourself and nearby allies within 5 meters. This boon also heals allies who enter its area or begin their turn within it.</content>
+
+<content contentuid="h031360edgba8bg40ddg83b4g52cb73a662cb" Source="Status_HEALING_Description.lsb" Key="Xorn_Divine_Vigor_Boon_Description">Restores vitality and armour when allies enter or start their turn in the area.</content>
+
+<content contentuid="hbeb0e1b6ge1b2g4b60g9481g05782449a821">Mark target &lt;font color='#D7001F'>enemy&lt;/font&gt;. Taunting them and all other enemies within 5m. If the mark dies in the next 3 turns, you are healed and receive damage and armour bonus. If the mark survives, their Vitality is healed to full and caster receives damage.</content>
+
+<content contentuid="haaaae880g6883g489dg9181g2e5e0658f213">Cleanse the following negative statuses from yourself: Silenced, Slowed, Crippled, Chilled, Shocked, Plague, Suffocating, Atrophy, Weakness, Diseased, Congeal, Accelerant, Entangled, Lasting Cruelty, Sap and Shackles of Pain.&lt;br&gt;Gain immunity to these effects in addition to Frozen, Petrified, Stunned and Knocked Down for 1 turn.</content>
+
+<content contentuid="h56cb39a0ge913g4364g97e6g843aca99bcdc">Consume oil surfaces around you converting them into &lt;font color='#A8A8A8'>Physical Armour&lt;/font&gt;.&lt;br&gt;&lt;font color='#C7A758' size='5'>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Cleanse Acid, Congeal, Crippled, Slowed, Sap and Entangled. Grants immunity to Stunned, Slow and Acid for 2 turns.</content>
+
+<content contentuid="h195e0642ge46ag4d02g85ecg20a8a0012104">You and each &lt;font color='#11D77A'>ally&lt;/font&gt; consume oil surfaces around them converting the oil into &lt;font color='#A8A8A8'>Physical Armour&lt;/font&gt;.&lt;br&gt;&lt;font color='#C7A758' size='5'>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Cleanse Acid, Congeal, Crippled, Slowed, Stunned, Sap and Entangled. Grants immunity to Stunned, Slow and Acid for 2 turns.</content>
+
+<content contentuid="h75487591g363cg4a7ag8d54g4acfc8c0c6d6">Heal a &lt;font color='#F3D347'>character&lt;/font&gt; and create a water puddle beneath them. Cleanse Burning, Diseased, Decaying Touch, Poisoned, Virulent, Proliferate, Bleeding, Sap and Fire King's Wrath.</content>
+
+<content contentuid="hd13bdfefg027eg46d0ga3efgbf0c254d3071">Heal yourself and &lt;font color='#11D77A'>allies&lt;/font&gt; around you. Create a water puddle beneath every target. Cleanse Necrofire, Burning, Diseased, Decaying Touch, Poisoned, Virulent, Proliferate Bleeding, Suffocation, Acid, Sap and Fire King's Wrath.</content>
+
+<content contentuid="haadfeeb2gcba3g402cgbb12gc453b243e7ba">Provides [1] to target &lt;font color='#F3D347'>character&lt;/font&gt;. While Fortified, the target cannot be teleported. Cleanse Poisoned, Bleeding, Burning, Acid, Decaying, Sap and Knockdown.</content>
+
+<content contentuid="hbdd79128g0dd2g48b0gb16fg5df43e540715">Spider legs burst from your back. You can create web surfaces in an area to entangle other &lt;font color='#F3D347'>characters&lt;/font&gt;. Walking on Webbed surfaces will make you Hasted rather than entangled. Incompatible with Wings. Gain Immunity to Atrophy and Slow.</content>
+
+<content contentuid="hc37324bdg4088g4df7gbf3bg944c59d7eeb3">Each time you take 5% or more of your vitality in damage, you erupt in a violent explosion of Physical energy. These reactions intensify as your vitality wanes, ending in a final deathburst that deals [2]% of your maximum vitality within a [3] meter radius. Normal surfaces around you may also shift unpredictably, turning into random blessed types.</content>
+
+<content contentuid="hfc8981a1g8f84g49c8ga8b4g17564a836c45">You thrive on every flaw in an enemies defense. Deal 7% more damage for every negative status currently afflicting your target. This includes all damage types, surfaces, DoTs and move effects that deal damage or destroy armour values.</content>
+
+<content contentuid="he98e8350ga91fg42a0gb473ged09f1ce41a9">&lt;font color='#11D77A'>Allies&lt;/font&gt; in within 8m redirect 50% of received damage to you.&lt;br&gt;&lt;font color='#C7A758' size='5'>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Gain &lt;font color='#80FFC3'>+25% Glancing Blows&lt;/font&gt; for 2 turns.&lt;br&gt;This effect can only stack with Glancing Blows granted by the Single-Handed skill.</content>
+
+<content contentuid="h7904523cgf911g4c37gb187g77a4c6654c69">50% of incoming damage is redirected to a nearby Ally.</content>
+
+<content contentuid="hb37236b0g5582g4c10g9cf9g3cb5377659ac" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Jugg1_Description">Deals 25% bonus damage and takes 25% less damage.</content>
+<content contentuid="h7e0ebf54g5819g4717gacf5g98101cbfd5bf" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Jugg2_Description">Deals 50% bonus damage and takes 50% less damage.</content>
+<content contentuid="h832d6afeg0bd7g41c3gb1a2g9879ba9a7603" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Jugg3_Description">Deals 75% bonus damage and takes 75% less damage.</content>
+<content contentuid="h5521944fg0497g4156ga581gbe471e85771e" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Jugg5_Description">Deals 100% bonus damage and takes no damage.</content>
+
+<content contentuid="hd0ed3217g3ee2g48acgb38eg7ef888244bdc" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Conq_Description">Deals 25% more damage, takes 80% less damage, and has Glass Cannon.&lt;br&gt;Each time the character is struck by loss of control (hard CC), they take +20% damage for 2 turns (stacks).&lt;br&gt;At 0% damage reduction, Glass Cannon is disabled. Full effects return when stacks expire.</content>
+<content contentuid="he1e4ae86g47cbg4839ga2e6g0a8373b01469" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Conq1_Description">Character deals 25% more damage and takes 60% less damage.</content>
+<content contentuid="h34ea7212g28a3g4bccg8c4cgb696c80c563b" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Conq2_Description">Character deals 25% more damage and takes 40% less damage.</content>
+<content contentuid="h4be2e8e7g9945g4594g9eb7gaf78e93283fb" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Conq3_Description">Character deals 25% mores damage and takes 20% less damage.</content>
+<content contentuid="h57343ef6gc592g420eg80fbg93c1c74c1148" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Conq4_Description">Character deals 25% more damage and takes 0% less damage.&lt;br&gt;No longer has Glass Cannon for a time.</content>
+<content contentuid="h0a59bb45gf935g4ecag9e61g86888c62c14a" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Disruption_Description">Creates areas of disruption that hinder and intensify in destructive power over time.</content>
+<content contentuid="hba5078cbg1ca2g4132g9092gbd4f7b92f903" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Phant_Killer_Description">Summons a slow moving invulnerable ghost able to inflict bone chilling harm with a touch.&lt;br&gt;Death of the caster will banish the phantasm.</content>
+
+<content contentuid="h261e7754g5a65g4990gb242gc081d2435452" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Acid_Aura_DisplayName">Blight Mist</content>
+<content contentuid="hd289b836g48d2g4549g82f4g54e0a8ba908a" Source="Status_CONSUME_Description.lsb" Key="Xorn_Acid_Aura_Description">Applies Acid to enemies within 6m.&lt;br&gt;Death of the character implants Blight Seed into a random enemy.&lt;br&gt;The seed is voracious, heavily debilitating the character and nearby allies.</content>
+<content contentuid="hde387695gf626g449bg9b02g9c98932dc82b" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Corrupted_Seed_DisplayName">Blight Seed</content>
+<content contentuid="hdfc74c4fg60e2g46d3g96fcg4bbf71683be3" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Corrupted_Seed_Description">Bight Seed prevents all mobility skills.</content>
+
+<content contentuid="hc454002bg80c6g41a1ga737g8b4ef7067d7c" Source="Status_CONSUME_Description.lsb" Key="Xorn_Seer_Judge_Description">At the end of each turn, the character projects a Cone of Judgment.&lt;br&gt;Enemies that move out of this cone become Petrified and lose 50% of their maximum Vitality and Armour.</content>
+
+<content contentuid="hf92aef2eged27g42e1g80eeg479695c9bc09" Source="Xorn_Overhead_Text.lsb" Key="Xorn_Overhead_Twins_Chaos_Text">&lt;font color=&apos;#FFFFFF&apos; size=&apos;22&apos;&gt;You will long for nonexistence!&lt;/font&gt;</content>
+<content contentuid="h85bef319g305cg4b46gaed4gb4a7163f5eb7" Source="Xorn_Overhead_Text.lsb" Key="Xorn_Overhead_Twins_Text2">&lt;font color=&apos;#FFFFFF&apos; size=&apos;20&apos;&gt;Source forge not done... Fine, claw and blood!&lt;/font&gt;</content>
+
+-New-
+
+
+<content contentuid="h4564bbfbgd845g4318g97e7ge85f5923b323">Elementalist</content>
+<content contentuid="h34fa90bdg6d1fg4ee8gb3e7g8c3694c70fae">Each time you cast an offensive Fire, Earth, Air, Water or Poison magic skill gain 10% More elemental damage and take 5% Less damage from all elements. This bonus stacks for each unique element cast but will reset if you cast the same element twice. Dual elemental spells will count as an element you have not yet cast if possible. Effects count towards all sources of elemental damage.</content>
+
+<content contentuid="xornconfluxcustomluastringkey00000016">Living Armour</content>
+<content contentuid="xornconfluxcustomluastringkey00000017">Living Armour converts 25% of any vitality healing or recovery received into both Magic and Physical Armour.</content>
+
+<content contentuid="xornconfluxcustomluastringkey00000018">Conflux Configuration Orb has many features including game difficulty options, removal of annoying NPCs, origin character tag swaps like villain and a backup vendor for new skills.</content>
+
+<content contentuid="h4e20aba1g87a5g4a47gab9bge34258a97e11" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_LivingArmor_Toggle_DisplayName">Living Armour</content>
+<content contentuid="h5c14f793g3d23g47fcgad59gbf35ac116ae2" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_LivingArmor_Toggle2_DisplayName">Living Armour</content>
+
+<content contentuid="hf4bf239fg2b51g425fga33fga9b87be8996d" Source="Shout_Description.lsb" Key="Shout_Xorn_LivingArmor_Toggle_Description">Switch to Physical Armour restoration.</content>
+<content contentuid="h9036fb84g19fcg415cga2feg7730832dcdb2" Source="Shout_Description.lsb" Key="Shout_Xorn_LivingArmor_Toggle2_Description">Switch to Magic Armour restoration.</content>
+
+<content contentuid="h87cac9a2g91c9g41e7ga4c2g40556569c780" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Combat_Ref_Bonus_Status_DisplayName">Momentum</content>
+<content contentuid="h5bcaae5dg1affg4fb4g9f33g39d5bd9d1242" Source="Status_CONSUME_Description.lsb" Key="Xorn_Combat_Ref_Bonus_Status_Description">Melee and Projectile skills cost -1AP.</content>
+
+<content contentuid="h46811b08gfc91g4c4fga007g3b940cbca036" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_Combat_Ref_Set_Skill_DisplayName">Configure Weapon Sets</content>
+<content contentuid="ha1411c55g4b42g4b43g978dgf66dc2ce83ec" Source="Shout_Description.lsb" Key="Shout_Xorn_Combat_Ref_Set_Skill_Description">Use to set Primary and Secondary weapon sets to quickly swap between.</content>
+<content contentuid="h49e08f36g8e72g447egb7a4g30f8e6f33ac3" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_Combat_Ref_Swap_DisplayName">Primary Weapon Set</content>
+<content contentuid="h716725fag0d9cg42c1ga8bcgcc9c6b8898db" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_Combat_Ref_Swap2_DisplayName">Secondary Weapon Set</content>
+<content contentuid="hc14f947dg38a5g4a37g9055g8393567bb7dd" Source="Shout_Description.lsb" Key="Shout_Xorn_Combat_Ref_Swap_Description">Switch to Secondary weapon set.</content>
+<content contentuid="h84896d2eg53c4g4bbbg86eeg3214832b99e0" Source="Shout_Description.lsb" Key="Shout_Xorn_Combat_Ref_Swap2_Description">Switch to Primary weapon set.</content>
+
+<content contentuid="h98163163g695ag4813gb105g3ade9ea09050">You strike with ruthless precision, finishing the weak without mercy. Armor means nothing to a true killer, only the final blow matters. Gain [2] bonus Action Points once per turn after delivering a killing blow. All damage you deal to enemies at or below 20% Vitality is converted to Piercing Damage, bypassing both Physical and Magic Armour.</content>
+
+<content contentuid="h83278a9bg2f4bg4fceg9831gbfb5a08999ff">Bind yourself to target character, copying any healing or Armour restoration you receive onto them. Cleanse Frozen, Stunned, Knocked Down, Atrophy, Silence and Petrified from target character.</content>
+
+<content contentuid="h71bc27c2g10b3g4ffcgbe92g98d921a979f6">Melee attacks draw strength from suffering, dealing 10% Fire damage to Burning enemies, Poison damage to Poisoned and Physical damage to Bleeding. Striking characters afflicted by one of these DoT types applies its Conflux variant, and extends the base status to its maximum duration. You lifesteal from all DoT damage you cause. When all three base effects fester together, your presence invites Infection.</content>
+
+<content contentuid="ha42369deg7782g4c30g9b46gee91a713cfc2" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Meta_Status_DisplayName">Metamorph</content>
+<content contentuid="had2ac0e7gcd8cg4d71g9ddcg7ffbd3c42ac5" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Meta_Status_Description">Character has highly oppressive synergy and skills for every situation.</content>
+
+<content contentuid="h4e7233e5g8b9dg4f04g87cdgebb72351bc37" Source="Target_DisplayName.lsb" Key="Target_Xorn_Soul_Stitch_DisplayName">Soul Stitch</content>
+<content contentuid="h4b88072eg57f1g42c4g8d89ga44302c48f73" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Doom_Status_DisplayName">Doom</content>
+<content contentuid="h62b1dbc5g48a6g406egb359g95d544ba83b6" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Doom_Status_Description">Character loses 20% of their maximum Vitality and Armour each turn until either they or the caster dies.</content>
+
+<content contentuid="h710da701g3eb0g4a62g8191g216e530f0b8f" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Phant_Summon_Visual_DisplayName">Phantasmal Killer</content>
+<content contentuid="ha728ef1fg8635g4610gb877ga9539e90159f" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Phant_Summon_Visual_Description">The character&apos;s touch shatters armor, reduces maximum vitality by 33%, and chills the target to the bone.</content>
+
+<content contentuid="h2ff7c01fga411g46a9gb5f5gbbb332be8a93" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Corrupted_Seed_PROC_DisplayName">Blight Seed Influence</content>
+<content contentuid="h6308050eg06b7g4699g8bf7g9a6e111517fa" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Corrupted_Seed_PROC_Description">Bight Seed prevents all mobility skills.</content>
+
+<content contentuid="h8f395c5ag28deg45c6g8ccbgd5adcc700300" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Seer_Judge_PROC_DisplayName">Judgment</content>
+<content contentuid="h8639470cgcdcag4ad5g9befg6100ee86b498" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Seer_Judge_PROC_Description">Character is under judgment. Leaving the area before judgment has passed results in dire consequences.</content>
+
+<content contentuid="h6e161898gacbag47fcgb63ag79fb6e7ab895" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Owl_Summon_PROC_DisplayName">Guardian Protection</content>
+<content contentuid="hca389b36g25b0g4fc7g8a90g6653c9e7e5a0" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Owl_Summon_Status_DisplayName">Guardian Spirit</content>
+<content contentuid="he994d0f7g689eg401dga384gdac20392880d" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Owl_Summon_Visual_DisplayName">Guardian Aura</content>
+<content contentuid="hab29a444g101ag46ccgb8bfg6da23b50fac6" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Owl_Summon_PROC_Description">Character is protected by a Guardian Spirit taking 75% less damage.</content>
+<content contentuid="h2bf7e66fg974cg46e9gbd45ga7e7b615b1b6" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Owl_Summon_Status_Description">Summons a Guardian Spirit to protect allies. Damage taken is split evenly between the guardian and the character.</content>
+<content contentuid="h9e7dbcfeg435fg4ea1gbac0g9beebb6c5131" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Owl_Summon_Visual_Description">Protects allies within 4m, reducing damage they take by 75%. Any damage is split evenly between the guardian and its owner.</content>
+
+<content contentuid="hdc5cb7bag355ag4f47gac91g2bee84c13fee" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Night_Weaver_Status_DisplayName">Shadow Weaver</content>
+<content contentuid="hb57b1bedgd886g4417gac5dg373711965e9e" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Night_Weaver_Status_Description">Character disrupts the natural order, shrouding enemies in clouds of darkness and often slipping into the shadows. The surge of night lingers for 2 turns before turning volatile.</content>
+
+<content contentuid="h0952bb63gaf79g4a44g8cbfg27a8bff144d4" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Furnace_Status_DisplayName">Soul Furnace</content>
+<content contentuid="hb6025adbgb73bg4f97g9355gbc9bf76da72a" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Elite_Furnace_Status_Summon_DisplayName">Soul Flame</content>
+<content contentuid="h751bf328g1acbg464bgb9f5g8473234961a4" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Furnace_Status_Description">Each turn, the character summons Furnace Drakes of living flame that erupt on attack or death, unleashing soul-burning explosions that deal equal parts piercing damage.</content>
+<content contentuid="h1127d073gcb86g47d5gbaa2g367ead855676" Source="Status_CONSUME_Description.lsb" Key="Xorn_Elite_Furnace_Status_Summon_Description">Erupts in a soul-rending blaze that reaches 30m, its damage increases with distance from 10% to 300%.</content>
+
+
+<content contentuid="hd411d813g320bg4748gbb96g424eaf28dca4" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_UNI_Phonix_Shield_Revive_DisplayName">Phoenix Crest Revival</content>
+<content contentuid="h2058f0f2gc815g495ag8d9cge98ee58e0ed6" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_UNI_Phoenix_Shield_On_DisplayName">Phoenix Revival</content>
+<content contentuid="hd65cc340gbcc6g4418gb62eg6fd13e0b7436" Source="Shout_Description.lsb" Key="Shout_Xorn_UNI_Phonix_Shield_Revive_Description">Wreathe yourself and &lt;font color=&apos;#11D77A&apos;&gt;allies&lt;/font&gt; within 4m in cleansing fire, igniting &lt;font color=&apos;#D7001F&apos;&gt;enemies&lt;/font&gt; while restoring vitality with every glancing blow. Each strike deflected stirs the crest’s dormant power, growing brighter with each ember. After 5 Glancing blows, the phoenix awakens in full unleashing greater flames while also mending armour.&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;This shield has a limited number of charges but will restore a charge every 30 minutes.&lt;br&gt;&lt;font color=&apos;#00FFFF&apos;&gt;(3 Charges)&lt;/font&gt;&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;</content>
+	<content contentuid="h9df45c0eg2b53g49e9ga74bg8ac43fa9448d" Source="Shout_Description.lsb" Key="Shout_Xorn_UNI_Phonix_Shield_Revive_Off_Description">The crest lies dormant, its flames smothered by ash. Endure and weather the blows of battle until the phoenix stirs once more, rekindling its power.&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;This shield has a limited number of charges but will restore a charge every 30 minutes.&lt;br&gt;&lt;font color=&apos;#00FFFF&apos;&gt;(0 Charges)&lt;/font&gt;&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;</content>
+	<content contentuid="hb7c97765gb274g45d1g8ef4g86d7e0b97de1" Source="Shout_Description.lsb" Key="Shout_Xorn_UNI_Phonix_Shield_Revive2_Description">Wreathe yourself and &lt;font color=&apos;#11D77A&apos;&gt;allies&lt;/font&gt; within 4m in cleansing fire, igniting &lt;font color=&apos;#D7001F&apos;&gt;enemies&lt;/font&gt; while restoring vitality with every glancing blow. Each strike deflected stirs the crest’s dormant power, growing brighter with each ember. After 5 Glancing blows, the phoenix awakens in full unleashing greater flames while also mending armour.&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;This shield has a limited number of charges but will restore a charge every 30 minutes.&lt;br&gt;&lt;font color=&apos;#00FFFF&apos;&gt;(2 Charges)&lt;/font&gt;&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;</content>
+	<content contentuid="h0c687462g516bg4f50g9d84g9c3cbb7117af" Source="Shout_Description.lsb" Key="Shout_Xorn_UNI_Phonix_Shield_Revive3_Description">Wreathe yourself and &lt;font color=&apos;#11D77A&apos;&gt;allies&lt;/font&gt; within 4m in cleansing fire, igniting &lt;font color=&apos;#D7001F&apos;&gt;enemies&lt;/font&gt; while restoring vitality with every glancing blow. Each strike deflected stirs the crest’s dormant power, growing brighter with each ember. After 5 Glancing blows, the phoenix awakens in full unleashing greater flames while also mending armour.&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;This shield has a limited number of charges but will restore a charge every 30 minutes.&lt;br&gt;&lt;font color=&apos;#00FFFF&apos;&gt;(1 Charge)&lt;/font&gt;&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;</content>
+
+<content contentuid="h92f552f5g6e3dg476eg8e4egc6ea8b8de20f" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_UNI_Bone_Axe_Status_DisplayName">Grimfury</content>
+<content contentuid="hbf7ff449g8312g4e47g86a9g29628069f09d" Source="Status_CONSUME_Description.lsb" Key="Xorn_UNI_Bone_Axe_Status_Description">Character gains strength and always absorbs 30 points of damage. If more than 30 damage it taken at once, the effect is shattered.</content>
+
+<content contentuid="h4892af17g1a69g4654g80afgdbbab251ee00" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_UNI_Lua_Status_DisplayName">Crescent Wave</content>
+
+<content contentuid="h3be63859gd083g429eg9c92g5279c2479eaa" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Combat_Ref_Melee_DisplayName">Melee Reflexes</content>
+<content contentuid="h733f2f94gddafg4b12gb11dg40f2c2d74dec" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Combat_Ref_Ranged_DisplayName">Ranged Reflexes</content>
+<content contentuid="h6ec82870g3de7g4c93g977agf20a43131a1f" Source="Status_CONSUME_Description.lsb" Key="Xorn_Combat_Ref_Melee_Description">Next Projectile will be empowered.</content>
+<content contentuid="hcafb83c3ga1b4g4f12gaba8g7dbabc5de106" Source="Status_CONSUME_Description.lsb" Key="Xorn_Combat_Ref_Ranged_Description">Next Melee strike will be empowered.</content>
+
+<content contentuid="h32b437cfge322g477ag8609g5fbb9ee641cd" Source="Summon_DisplayName.lsb" Key="Summon_Xorn_Elite_Owl_DisplayName">Guardian Spirit</content>
+<content contentuid="h1bf18319g75e1g410bgad1eg5199e7f3c572" Source="Summon_DisplayName.lsb" Key="Summon_Xorn_Elite_Phant_DisplayName">Phantasmal Killer</content>
+
+<content contentuid="xorn_custom_damage_boost">More Damage</content>
+<content contentuid="xorn_custom_dodge_chance">Dodge Chance</content>
+<content contentuid="xorn_custom_phys_resistance">Physical Resistance</content>	
+<content contentuid="xorn_custom_fire_resistance">Fire Resistance</content>
+<content contentuid="xorn_custom_earth_resistance">Earth Resistance</content>
+<content contentuid="xorn_custom_water_resistance">Water Resistance</content>
+<content contentuid="xorn_custom_air_resistance">Air Resistance</content>
+<content contentuid="xorn_custom_poison_resistance">Poison Resistance</content>
+<content contentuid="xorn_custom_piercing_resistance">Piercing Resistance</content>
+<content contentuid="xorn_custom_rush_header">Character is gaining increased durability the closer they dance with death.</content>	
+
+<content contentuid="h83ce2eb4g78e2g4ca6g9524g8db1beac0718" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_Xorn_HE1">Difficulty Setting:</content>
+<content contentuid="hc29c3818ga090g4fd7gb940g6ccec2ba65e1" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_Xorn_HE2">Difficulty Setting:</content>
+<content contentuid="hd21f8f9bgcf87g4407gb9c9gf919c572fbc5" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_Xorn_HE3">Difficulty Setting:</content>
+<content contentuid="h551b05bagebe1g43f4g8023g5849a562571c" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_Xorn_HE4">Difficulty Setting:</content>
+<content contentuid="h9fb8b123g9d7cg4fc9g8c0bg9e5636e45a82" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_Xorn_HE5">Difficulty Setting:</content>
+<content contentuid="h84abd126g5b91g4e81gae3fgccc6c236df1f" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_Xorn_HE6">Difficulty Setting:</content>
+
+<content contentuid="h98493c82g2360g4c65g8cdag33b884069f8c"></content>
+<content contentuid="h40a065adgd03bg4cd5gaa17g6b25a6350b27"></content>
+<content contentuid="hf33e1e8agb518g4fc8gb60dg2caa6aba2b63"></content>
+<content contentuid="ha7e16016gff7dg47fcg8fdfg9aa128ec012e"></content>
+<content contentuid="h3d655642ge090g438fg85bag7468ff3b9e07"></content>
+<content contentuid="h35f38fddge3e1g4ee7gbd5egacb0e10fc97a"></content>
+<content contentuid="hb17f84ebgf879g460bg8ae4g0d49c3d9d7c4"></content>
+<content contentuid="ha0d1a761gb9b0g409fga4fag2cf8e15473f1"></content>
+<content contentuid="h9cefad4dg4e5fg4a98g9977gee9f1317b6fe"></content>
+
