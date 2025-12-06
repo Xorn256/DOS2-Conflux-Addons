@@ -1,0 +1,139 @@
+
+
+
+-New-
+
+<content contentuid="h28b6d155g734ag4571g9cceg7a283ab3ed31" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Touch_Debuff_Status_DisplayName">Exposure</content>
+<content contentuid="h95aa7e13g57ecg4ae5g8424g57f510b054d7" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Touch_Air">Exposure</content>
+<content contentuid="h181234bage60eg49a3g9b7eg5f00e4e52e79" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Touch_Earth">Exposure</content>
+<content contentuid="hac2ee843g9fddg4570ga7b6g446336b638db" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Touch_Fire">Exposure</content>
+<content contentuid="hafbeafe5g7e7dg4228ga8c4g238f420b09e2" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Touch_Phys">Exposure</content>
+<content contentuid="hbe6a1835g6408g4abeg9b38gc17790a0dab8" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Touch_Poison">Exposure</content>
+<content contentuid="h273327bag48beg4a44gb90bg3a26149f1b3a" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Touch_Water">Exposure</content>
+
+<content contentuid="xornconfluxcustomluastringkey00000019">&#xA0;Damage,&#xA0;</content>
+<content contentuid="xornconfluxcustomluastringkey00000020">&#xA0;Dodge and&#xA0;</content>
+<content contentuid="xornconfluxcustomluastringkey00000021">&#xA0;Crit Multiplier.</content>
+
+<content contentuid="xornconfluxcustomluastringkey00000022">Fire Resistance: -10%</content> 
+<content contentuid="xornconfluxcustomluastringkey00000023">Water Resistance: -10%</content>
+<content contentuid="xornconfluxcustomluastringkey00000024">Poison Resistance: -10%</content>
+<content contentuid="xornconfluxcustomluastringkey00000025">Air Resistance: -10%</content>
+<content contentuid="xornconfluxcustomluastringkey00000026">Earth Resistance: -10%</content>
+<content contentuid="xornconfluxcustomluastringkey00000027">Physical Resistance: -10%</content>
+
+<content contentuid="xornconfluxcustomluastringkey00000028">Fire +5%</content> 
+<content contentuid="xornconfluxcustomluastringkey00000029">Water +5%</content>
+<content contentuid="xornconfluxcustomluastringkey00000030">Poison +5%</content>
+<content contentuid="xornconfluxcustomluastringkey00000031">Air +5%</content>
+<content contentuid="xornconfluxcustomluastringkey00000032">Earth +5%</content>
+<content contentuid="xornconfluxcustomluastringkey00000033">Physical +5%</content>
+
+<content contentuid="h1c7ae69bg089ag49afga386g7302ad021d72" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Runic_Arsenal_Coles_Air">Coalescence</content>
+<content contentuid="h1f475a14g887ag447dg9fbbgb3a4ac5dca86" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Runic_Arsenal_Coles_Earth">Coalescence</content>
+<content contentuid="had37d4degd386g403dgab9bgb467055bed80" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Runic_Arsenal_Coles_Fire">Coalescence</content>
+<content contentuid="h1c9826a6gba59g4981g8893gfe2116beabbd" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Runic_Arsenal_Coles_Phys">Coalescence</content>
+<content contentuid="h62953b60gd19cg4a0cg9c38ga0b1c336cabd" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Runic_Arsenal_Coles_Pierc">Coalescence</content>
+<content contentuid="hd0d9aee7g420fg415ag90b8gbbba43061a2a" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Runic_Arsenal_Coles_Poison">Coalescence</content>
+<content contentuid="h9a8cc829g1a10g4b9dg9697gd29e9d33b700" Source="Stats_Xorn_NPC_RUNIC_VIGOR.lsb" Key="Stats_Xorn_Runic_Arsenal_Coles_Water">Coalescence</content>
+
+
+
+
+<content contentuid="h64575c0bg1cb8g4844g8cacgc07dd3acce10" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Vigor_Dummy2_DisplayName">Coalescence: After being hit by enemy damage gain +5% resistance to that type and deal +5% more damage of that type for 2 turns</content>
+<content contentuid="he787377egb341g49a3g90b2g6a7f97f8ec47" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Vigor_Dummy3_DisplayName">Coalescence: After being hit by enemy damage gain +5% resistance to that type and deal +5% more damage of that type for 3 turns</content>
+
+<content contentuid="h1a3f3679g77feg41a4g9971g3a83bc491f5d" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Runic_Arsenal_Coles_Visual_DisplayName">Rune of Coalescence</content>
+
+<content contentuid="he5575c49ga631g4fcbg95ecgd95137bfd0f3" Source="Target_DisplayName.lsb" Key="Target_Xorn_VenomTouch_DisplayName">Venom Touch</content>
+
+<content contentuid="hcc4f90c3gde29g4cbagb580gdc3f78aebaef" Source="Target_Description.lsb" Key="Target_Xorn_VenomTouch_Description">Touch target &lt;font color=&apos;#F3D347&apos;&gt;character&lt;/font&gt; within 2m dealing [1] then apply Poisoned.&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Causes&lt;font color=&apos;#C7A758&apos;&gt;Exposure&lt;/font&gt; of the same type as the skill damage, ignoring armour.</content>
+
+
+
+
+
+
+-Changed-
+
+<content contentuid="h84bd91f0g09adg4f67gb70dg3698f8af2ed8" Source="Rune_Xorn_Sang_CON_1.lsb" Key="Rune_Xorn_Sang_CON_1">Lesser Sanguine Rune of Constitution</content>
+<content contentuid="h0ca1f4a5gf2f1g4b62gb38eg04baa6adc16a" Source="Rune_Xorn_Sang_CON_2.lsb" Key="Rune_Xorn_Sang_CON_2">Sanguine Rune of Constitution</content>
+<content contentuid="h9a796fbfg7a43g4deagb6a1gb78e87b33e66" Source="Rune_Xorn_Sang_CON_3.lsb" Key="Rune_Xorn_Sang_CON_3">Greater Sanguine Rune of Constitution</content>
+<content contentuid="h88497e18ge346g4200gaea6g2e3cae4f1bd0" Source="Rune_Xorn_Sang_FIN_1.lsb" Key="Rune_Xorn_Sang_FIN_1">Lesser Sanguine Rune of Finesse</content>
+<content contentuid="h16cb87d7ga449g4b74gbca0gfdcd92dcdb2a" Source="Rune_Xorn_Sang_FIN_2.lsb" Key="Rune_Xorn_Sang_FIN_2">Sanguine Rune of Finesse</content>
+<content contentuid="ha325a243gf4e1g477cg999eg23667f997dbf" Source="Rune_Xorn_Sang_FIN_3.lsb" Key="Rune_Xorn_Sang_FIN_3">Greater Sanguine Rune of Finesse</content>
+<content contentuid="ha265eb5fg734dg46c5gaf71ge2ff07601ba4" Source="Rune_Xorn_Sang_INT_1.lsb" Key="Rune_Xorn_Sang_INT_1">Lesser Sanguine Rune of Intelligence</content>
+<content contentuid="h4459a47cgf062g4bb3g997cge85bcfde4fbd" Source="Rune_Xorn_Sang_INT_2.lsb" Key="Rune_Xorn_Sang_INT_2">Sanguine Rune of Intelligence</content>
+<content contentuid="hf09ec346ga542g4d2fgb6c4ga8e8186331b9" Source="Rune_Xorn_Sang_INT_3.lsb" Key="Rune_Xorn_Sang_INT_3">Greater Sanguine Rune of Intelligence</content>
+<content contentuid="h1aa62c77g9750g4443gb4fbgc6d3577e8891" Source="Rune_Xorn_Sang_STR_1.lsb" Key="Rune_Xorn_Sang_STR_1">Lesser Sanguine Rune of Strength</content>
+<content contentuid="h6fab93aagdc5dg4effg8dfagc313f3416988" Source="Rune_Xorn_Sang_STR_2.lsb" Key="Rune_Xorn_Sang_STR_2">Sanguine Rune of Strength</content>
+<content contentuid="h39dd80cag618eg44dbgaf21gdf483b82f961" Source="Rune_Xorn_Sang_STR_3.lsb" Key="Rune_Xorn_Sang_STR_3">Greater Sanguine Rune of Strength</content>
+
+<content contentuid="h7bcc8261g4e1dg4012g8d15g4e7e92e5f805" Source="Rune_Xorn_Cleave_CON_1.lsb" Key="Rune_Xorn_Cleave_CON_1">Lesser Detonation Rune of Constitution</content>
+<content contentuid="h4334a9c3gc7c6g4e9ag9596g94729b0c63c9" Source="Rune_Xorn_Cleave_CON_2.lsb" Key="Rune_Xorn_Cleave_CON_2">Detonation Rune of Constitution</content>
+<content contentuid="hac4c2d87gb25eg497dg960dg20f8467ec120" Source="Rune_Xorn_Cleave_CON_3.lsb" Key="Rune_Xorn_Cleave_CON_3">Greater Detonation Rune of Constitution</content>
+<content contentuid="h80de15a1gec00g40bcga95bgc7f96efe1a7d" Source="Rune_Xorn_Cleave_FIN_1.lsb" Key="Rune_Xorn_Cleave_FIN_1">Lesser Detonation Rune of Finesse</content>
+<content contentuid="h367009c8gef68g4434gb859g22bd977bd0b1" Source="Rune_Xorn_Cleave_FIN_2.lsb" Key="Rune_Xorn_Cleave_FIN_2">Detonation Rune of Finesse</content>
+<content contentuid="hd7afd760gca36g41d2g9a0egd45ed8227752" Source="Rune_Xorn_Cleave_FIN_3.lsb" Key="Rune_Xorn_Cleave_FIN_3">Greater Detonation Rune of Finesse</content>
+<content contentuid="hd3325a08gde6eg45cdg817bg11f2b850921b" Source="Rune_Xorn_Cleave_INT_1.lsb" Key="Rune_Xorn_Cleave_INT_1">Lesser Detonation Rune of Intelligence</content>
+<content contentuid="h2f7956e4gb8beg4cdfgabc6g175da540cc2d" Source="Rune_Xorn_Cleave_INT_2.lsb" Key="Rune_Xorn_Cleave_INT_2">Detonation Rune of Intelligence</content>
+<content contentuid="h82261278gee0bg4bbcga1bfgca1800699396" Source="Rune_Xorn_Cleave_INT_3.lsb" Key="Rune_Xorn_Cleave_INT_3">Greater Detonation Rune of Intelligence</content>
+<content contentuid="h2da85628gf7f5g46e4g86c4gc162997244e6" Source="Rune_Xorn_Cleave_STR_1.lsb" Key="Rune_Xorn_Cleave_STR_1">Lesser Detonation Rune of Strength</content>
+<content contentuid="h6a61dfd0g7393g46f7g8fe8g72a7b47df520" Source="Rune_Xorn_Cleave_STR_2.lsb" Key="Rune_Xorn_Cleave_STR_2">Detonation Rune of Strength</content>
+<content contentuid="h27226c54gbb17g4396g9a20gb58f22293683" Source="Rune_Xorn_Cleave_STR_3.lsb" Key="Rune_Xorn_Cleave_STR_3">Greater Detonation Rune of Strength</content>
+
+<content contentuid="hc2ab09d0g8300g4127g995cg93e75b86a02f" Source="Rune_Xorn_Vigor_T1.lsb" Key="Rune_Xorn_Vigor_T1">Lesser Rune of Coalescence</content>
+<content contentuid="h77187fecg0908g427cg83c7gab4dd8ad2fd6" Source="Rune_Xorn_Vigor_T1_CON.lsb" Key="Rune_Xorn_Vigor_T1_CON">Lesser Coalescence Rune of Constitution</content>
+<content contentuid="h7d79dfa8g4754g4c89g8cdag0f3c823f9a0e" Source="Rune_Xorn_Vigor_T1_FIN.lsb" Key="Rune_Xorn_Vigor_T1_FIN">Lesser Coalescence Rune of Finesse</content>
+<content contentuid="hf2dff614g34b1g41cag9a8age66ccd270463" Source="Rune_Xorn_Vigor_T1_INT.lsb" Key="Rune_Xorn_Vigor_T1_INT">Lesser Coalescence Rune of Intelligence</content>
+<content contentuid="he7b288d8g8d18g4f77g838agbd1ee4e3053d" Source="Rune_Xorn_Vigor_T1_STR.lsb" Key="Rune_Xorn_Vigor_T1_STR">Lesser Coalescence Rune of Strength</content>
+<content contentuid="h97244ff6gf3fbg4e7bgb38dg485da42c4772" Source="Rune_Xorn_Vigor_T2.lsb" Key="Rune_Xorn_Vigor_T2">Rune of Coalescence</content>
+<content contentuid="h0915f52agc159g45d1gb83egce766f255a75" Source="Rune_Xorn_Vigor_T2_CON.lsb" Key="Rune_Xorn_Vigor_T2_CON">Coalescence Rune of Constitution</content>
+<content contentuid="h96e17fecg6676g4b5bgb3d2g83985a939c2c" Source="Rune_Xorn_Vigor_T2_FIN.lsb" Key="Rune_Xorn_Vigor_T2_FIN">Coalescence Rune of Finesse</content>
+<content contentuid="h84c16880g409dg452bgb820gea4224880403" Source="Rune_Xorn_Vigor_T2_INT.lsb" Key="Rune_Xorn_Vigor_T2_INT">Coalescence Rune of Intelligence</content>
+<content contentuid="h5e7313bdg1e40g45cfgb5bfg4c966c2639b3" Source="Rune_Xorn_Vigor_T2_STR.lsb" Key="Rune_Xorn_Vigor_T2_STR">Coalescence Rune of Strength</content>
+<content contentuid="h63051feag2305g4c20g8eddg878061f663d7" Source="Rune_Xorn_Vigor_T3.lsb" Key="Rune_Xorn_Vigor_T3">Greater Rune of Coalescence</content>
+<content contentuid="h532a0452ge110g4d4fg85bag874b4af78a3f" Source="Rune_Xorn_Vigor_T3_CON.lsb" Key="Rune_Xorn_Vigor_T3_CON">Greater Coalescence Rune of Constitution</content>
+<content contentuid="h5be2fea7g04dbg48e6ga167gd12153edc516" Source="Rune_Xorn_Vigor_T3_FIN.lsb" Key="Rune_Xorn_Vigor_T3_FIN">Greater Coalescence Rune of Finesse</content>
+<content contentuid="hfe009d2fg99aag4a59g8285g6b4b82e0f896" Source="Rune_Xorn_Vigor_T3_INT.lsb" Key="Rune_Xorn_Vigor_T3_INT">Greater Coalescence Rune of Intelligence</content>
+<content contentuid="h4802f55bgc448g480fg8493g8354b025925a" Source="Rune_Xorn_Vigor_T3_STR.lsb" Key="Rune_Xorn_Vigor_T3_STR">Greater Coalescence Rune of Strength</content>
+
+<content contentuid="h98b4dfebg835eg48caga77ag2cc166cc201f" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Detonation_Dummy_DisplayName">Hitting an enemy charges them with runic power. Consume 3 charges to deal 30% more damage for that hit.</content>
+<content contentuid="h9c84f266g5378g41b8g816eg5860bf424ab8" Source="Status_CONSUME_Description.lsb" Key="Xorn_Detonation_Dummy_Description">Character explodes at 3 charges.</content>
+
+<content contentuid="hc158ecc7g386ag44cdg9e77g84998fae69f9" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Vigor_Dummy_DisplayName">Coalescence: After being hit by enemy damage gain +5% resistance to that type and deal +5% more damage of that type for 1 turn</content>
+
+<content contentuid="h328bb738g8f2cg4b8fg9c67g135ca78e0726" Source="Shout_Description.lsb" Key="Shout_Xorn_Create_Runes_Amulet_T1_Description">Summon Lesser runes of Shielding, Coalescence, Adept and Potency.</content>
+<content contentuid="hc03277e1gf3b6g402fgb96dg40e60054357b" Source="Shout_Description.lsb" Key="Shout_Xorn_Create_Runes_Amulet_T2_Description">Summon runes of Shielding, Coalescence, Adept and Potency.</content>
+<content contentuid="h74f65b94g51dcg4d13gbeacg0c36cac8a041" Source="Shout_Description.lsb" Key="Shout_Xorn_Create_Runes_Amulet_T3_Description">Summon Greater runes of Shielding, Coalescence, Adept and Potency.</content>
+
+<content contentuid="h2525c44dgbf94g4a5cgbfa5gf1123c529bf1" Source="Shout_Description.lsb" Key="Shout_Xorn_Create_Runes_Sang_Description">Summon Strength, Finesse, Intelligence and Constitution runes of Sanguine.</content>
+<content contentuid="h57731895g131dg43e0ga521g1b73e007bd95" Source="Shout_Description.lsb" Key="Shout_Xorn_Create_Runes_SangT2_Description">Summon Strength, Finesse, Intelligence and Constitution runes of Sanguine.</content>
+<content contentuid="h57a46031g84ebg49f4g8cdeg3675417b52ab" Source="Shout_Description.lsb" Key="Shout_Xorn_Create_Runes_SangT3_Description">Summon Strength, Finesse, Intelligence and Constitution runes of Sanguine.</content>
+
+<content contentuid="h445655d1g610eg4bf3gb4afgf7bf4e5422bb" Source="Shout_Description.lsb" Key="Shout_Xorn_Create_Runes_Cleave_Description">Summon Strength, Finesse, Intelligence and Constitution runes  of Detonation.</content>
+<content contentuid="hc4fe5733gbb1eg4adfgaa92gbb28f46e2c1c" Source="Shout_Description.lsb" Key="Shout_Xorn_Create_Runes_CleaveT2_Description">Summon Strength, Finesse, Intelligence and Constitution runes of Detonation.</content>
+<content contentuid="h44400614g73b9g4cd3gae26ge35ffe594425" Source="Shout_Description.lsb" Key="Shout_Xorn_Create_Runes_CleaveT3_Description">Summon Strength, Finesse, Intelligence and Constitution runes of Detonation.</content>
+
+<content contentuid="h1cb7846bg05a2g4585gb443g0e87af47200a" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_Create_Runes_Sang_DisplayName">Summon Lesser Sanguine Runes</content>
+<content contentuid="hbde37b5cg8b29g46f3g9790g40c27d0c038e" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_Create_Runes_SangT2_DisplayName">Summon Sanguine Runes</content>
+<content contentuid="hbfcc2973g191fg4092g92cdgeb44ed1a6ebd" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_Create_Runes_SangT3_DisplayName">Summon Greater Sanguine Runes</content>
+<content contentuid="h9143d610g86fdg4b34gb853g5856c271de66" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_Create_Runes_Cleave_DisplayName">Summon Lesser Detonation Runes</content>
+<content contentuid="hb7c73395g0f62g4b79gae85g138c44adc3c5" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_Create_Runes_CleaveT2_DisplayName">Summon Detonation Runes</content>
+<content contentuid="h2ea5d2d1g7b04g4588g86dfgdebb385e0065" Source="Shout_DisplayName.lsb" Key="Shout_Xorn_Create_Runes_CleaveT3_DisplayName">Summon Greater Detonation Runes</content>
+
+
+
+<content contentuid="hd2ce8051g60adg4d7ega77cg86b745bd1b5c">Gain 15% Earth Resistance, and Slow now affects you in reverse. Poison status applied by you or your summons bypasses armour on enemies and harms undead. Any Virulent from your Terra Poison also damages undead. Acid reduces physical resistance by 10%. You may release your Earthen Affinity at any time, converting Earth damage to Physical. When combined with an opposing King gain additional perks of Two Kings United.&lt;br&gt;&lt;font color='#C7A758' size='17'>(Converted physical scales with Geomancy)&lt;/font&gt;</content>
+
+
+<content contentuid="h2661c6d1g17ceg4148gac2dge9a4e23c3b3b">Touch target &lt;font color='#F3D347'>character&lt;/font&gt; within 2m dealing [2] then apply Shocked.&lt;br&gt;&lt;font color='#C7A758' size='5'>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Causes &lt;font color='#C7A758'>Exposure&lt;/font&gt; of the same type as the skill damage, ignoring armour.</content>
+
+<content contentuid="hec99c4fdg12a1g4d84g8641g61a697fcc0dc" Source="Target_Description.lsb" Key="Target_FreezingTouch_Description">Touch target &lt;font color=&apos;#F3D347&apos;&gt;character&lt;/font&gt; within 2m dealing [1] then apply Chilled.&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Causes&lt;font color=&apos;#C7A758&apos;&gt;Exposure&lt;/font&gt; of the same type as the skill damage, ignoring armour.</content>
+
+<content contentuid="h91335478ge198g4877gaddbg6dc21d69b324" Source="Target_Description.lsb" Key="Target_Xorn_BurningTouch_Description">Touch target &lt;font color=&apos;#F3D347&apos;&gt;character&lt;/font&gt; within 2m dealing [2] then apply Burning.&lt;br&gt;&lt;font color=&apos;#C7A758&apos; size=&apos;5&apos;&gt;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Causes&lt;font color=&apos;#C7A758&apos;&gt;Exposure&lt;/font&gt; of the same type as the skill damage, ignoring armour.</content>
+
+<content contentuid="ha13da4eag180ag4595g821egdb0e0c4c9565">Touch target &lt;font color='#F3D347'>character&lt;/font&gt; within 2m dealing [1] then apply Decay.&lt;br&gt;&lt;font color='#C7A758' size='5'>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Causes &lt;font color='#C7A758'>Exposure&lt;/font&gt; of the same type as the skill damage, ignoring armour.</content>
+
+	<content contentuid="h15c252a1gcd4dg4e08gb8cfg52b37d88b03a">Touch a nearby &lt;font color='#F3D347'>character&lt;/font&gt; within 2m dealing [1] then applying Petrify. Apply Slow through Armour if the target is not turned to stone.&lt;font color='#C7A758' size='5'>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Causes &lt;font color='#C7A758'>Exposure&lt;/font&gt; of the same type as the skill damage, ignoring armour.</content>
+
