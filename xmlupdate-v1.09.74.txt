@@ -1,0 +1,41 @@
+-New-
+
+<content contentuid="h2ac05900gb92eg4d48g8ed3ga0e7a16624de" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Global_No_Crit_Aura_DisplayName">Cannot Critical Hit</content>
+<content contentuid="h6a799131g45a8g47e1g83c3g21f9a3f5171e" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_No_HighGround_DisplayName">No High Ground</content>
+
+<content contentuid="he470681fg8373g4fa6ga978g02089eae5d9e">Divine Talents  &lt;font color='#11D77A'>(Conflux: ALREADY ACTIVE)&lt;/font&gt;</content>
+<content contentuid="h0d63fc90gded0g416bga1c8g3d5148005d27">Enhanced Spirit Vision  &lt;font color='#11D77A'>(Conflux: ALREADY ACTIVE)&lt;/font&gt;</content>
+<content contentuid="h97b8ce61ga96fg4b24g9db2ged1a62f2fe36">Animal Empathy  &lt;font color='#11D77A'>(Conflux: ALREADY ACTIVE)&lt;/font&gt;</content>
+
+<content contentuid="h2a458c89g1c51g47c9ga6dbg6d507dc10022">Planar Weaver</content>
+<content contentuid="ha3151180g3a04g418aga7fag221b83642b51">When your summons attack, you gain a stack of Channeling, increasing your damage by 5%. At 5 stacks, Channeling Overcharges, reducing the cost of your next non-Summoning skill by 1 AP, consuming all stacks, and triggering Dimensional Surge. During Dimensional Surge, you and your summons bolster nearby ally Resistances and Accuracy while weakening those of enemies. Once per turn, you may swap positions with a summon you control, creating a Planar Fracture that causes nearby enemies to take 20% Prismatic damage; if used during Dimensional Surge, a fracture forms at both locations.</content>
+
+
+<content contentuid="he4dbc20eg35b6g4a87g89fdg2e9889f35a3f">Target a ground surface and conjure a totem of the corresponding element. Each turn, this totem will fire a projectile at enemies in sight.&lt;br&gt;&lt;font color='#C7A758' size='5'>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;br&gt;Totems are immune to all surface types.</content>
+
+<content contentuid="h7024820cgf3dbg4c3dg825dgfa9ccfd6d9fb" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Channeling_Stacking_DisplayName">Channeling</content>
+<content contentuid="h56e5acabgf754g4302g9f00gd3b8b93ea6ce" Source="Status_CONSUME_Description.lsb" Key="Xorn_Channeling_Stacking_Description">Gain more damage as you channel from summons until you reach a surge.</content>
+<content contentuid="xorn_channeling_count">Count: </content>
+
+<content contentuid="h372619bcgdb8eg4b33g8a46g358c5b6a62db" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Arch_Dimension_Surge_DisplayName">Dimensional Surge</content>
+<content contentuid="h4baaba57ga3c2g4a51gab08g5ad229f7e9a6" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Arch_Dimension_Surge_PROC_DisplayName">Dimensional Surge</content>
+<content contentuid="h1b202184gb90eg4ad3gb51fgf2b740bc8b4f" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Arch_Dimension_Surge_PROC_Ally_DisplayName">Dimensional Surge</content>
+<content contentuid="h6ba8fcaag4229g4ca6gb3efge576f868b0ac" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Arch_Planar_Fracture_PROC_DisplayName">Planar Fracture</content>
+<content contentuid="h6aa69a7cg2da0g42f7g98aegbf1bbfea2e2a" Source="Status_CONSUME_DisplayName.lsb" Key="Xorn_Channeling_Stack5_DisplayName">Channeling</content>
+<content contentuid="hb5edc93eg8ddag41d8gb413g77e0d874a223" Source="Status_CONSUME_Description.lsb" Key="Xorn_Arch_Dimension_Surge_Description">Character and allies within 4m gain 10% to all Resistances and 20% Accuracy. Enemies lose these values.</content>
+<content contentuid="h37a2c669gad86g4486gaba9gff90148582ac" Source="Status_CONSUME_Description.lsb" Key="Xorn_Arch_Planar_Fracture_PROC_Description">Character takes 20% more elemental damage as their lowest resistance.</content>
+<content contentuid="hee2278b2g0db1g40aag83aegcc302e623e55" Source="Status_CONSUME_Description.lsb" Key="Xorn_Channeling_Stack5_Description">Channel overcharge. The next non-summoning skill used costs 1 less AP.</content>
+<content contentuid="heb3d73dag1a08g488egbed9g2c7c0f1674f1" Source="Target_DisplayName.lsb" Key="Target_Xorn_Planar_Arch_Teleport_DisplayName">Ethereal Shift</content>
+<content contentuid="hd013969dge7b3g4371ga143g489aaa77129b" Source="Target_Description.lsb" Key="Target_Xorn_Planar_Arch_Teleport_Description">Step through the Ethereal Plane to swap places with a summon you control, leaving behind a Planar Fracture. If Dimensional Surge is active, fractures appear at both locations.</content>
+<content contentuid="hf59dc53cg3bceg437bga067ga687c68e84da" Source="Xorn_Overhead_Text.lsb" Key="Stats_Xorn_Arch_Dimension_Surge_PROC">Dimensional Surge</content>
+<content contentuid="hfc8ebdb1ge159g44fdg8b9ege260c417e625" Source="Xorn_Overhead_Text.lsb" Key="Stats_Xorn_Arch_Dimension_Surge_PROC_Ally">Dimensional Surge</content>
+
+<content contentuid="h52b6a3cfga4dag4a3bga6fdgf5158d6d030b">Arcane Ordnance</content>
+<content contentuid="hf3cd8067g36c0g4b48ga4dfg361f33579b43">Quick hands and sharp aim make you deadly with explosives and scrolls alike. While wielding a two-handed weapon or with an empty offhand, reduce the AP cost of explosives and scrolls by 1. Grenade damage is increased by 30% (+2% per level), affecting detonated objects like traps. Your expertise may grant extra crafting results, and you have a 25% chance to instantly replicate thrown grenades at no material cost.</content>
+
+
+-Changed-
+
+<content contentuid="h86bee297g3f52g425egbef7g5057f1ee930d">Anemic Malice</content>
+
+<content contentuid="hfb8eec35g3339g4762g8382g712e74a2ac0b">Weak yet insidious, your strikes barely wound, but your afflictions bite deep. Your attacks and spells deal 80% less damage, but any damage-over-time effects you inflict deal 80% more damage to enemies, overwriting weaker afflictions with your own. All non-summon and polymorph skills cost only 1 Action Point.</content>
